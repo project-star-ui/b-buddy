@@ -1,0 +1,10 @@
+
+{
+  "name": "Love Album",
+  "short_name": "Album",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f4f0fa",
+  "theme_color": "#cba4f1",
+  "icons": []
+}

@@ -1,0 +1,44 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f0fa;
+  color: #4b2e83;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.container {
+  padding: 2em;
+}
+input[type=password], input[type=file], textarea {
+  width: 80%;
+  padding: 0.7em;
+  margin: 1em 0;
+  border: 1px solid #d1c4e9;
+  border-radius: 12px;
+}
+button, .btn {
+  background-color: #cba4f1;
+  color: white;
+  padding: 0.7em 1.5em;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-top: 1em;
+  text-decoration: none;
+  display: inline-block;
+}
+button:hover, .btn:hover {
+  background-color: #a984e5;
+}
+.error {
+  color: crimson;
+}
+.gallery img {
+  max-width: 100px;
+  margin: 0.5em;
+  border-radius: 10px;
+}
+textarea {
+  height: 100px;
+}
